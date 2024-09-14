@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.container{
+    width:90%;
+    margin: 0 auto;
+}
+.row,.d-flex{
+    display: flex;
+}
+.align-center{
+    align-items: center;
+}
+.between{
+    justify-content: space-between;
+}
+.around{
+    justify-content: space-around;
+    background-color: transparent;
+    
+}
+.fs-64{
+    font-size: 64px;
+    margin-left: 250px;
+}
+.fs-18{
+    font-size: 18px;
+    
+}
+.text-center{
+    text-align: center;
+    
+}
+.gap{
+    gap: 30px;
+}
+.co-w{
+    color: white;
+}
+.h-500{
+    height: 600px;
+}
+section{
+    background-image:url(https://indianhouseofdosas.com/images/slider-ihod-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    background-image: url(https://indianhouseofdosas.com/images/qt-bg-ihod.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-attachment: fixed;
+    margin-top: 70px;
+    padding: 70px 0;
+
+}
+.color{
+    color: white;
+}
+.btn-1{
+    background-color: transparent;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    border:3px solid #cfa671;
+    margin-left: 250px;
+
+}
+.f-sc:hover{
+    background-color: #cfa671;
+    padding: 0px 20px;
+    border-radius: 10px;
+    cursor: grabbing;
+
+}
+.cream{
+    color: #cfa671;
+
+}
+.justify-center{
+    justify-content: center;
+}
+.container-1{
+    width: 100%;
+    margin: 0;
+}
+.grey{
+    color: gray;
+}
+.ml-20{
+    margin-left: 20px;
+}
+.bg-img1{
+    background-image: url(https://indianhouseofdosas.com/images/qt-bg-ihod.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p-20{
+    padding: 20px;
+}
+.fs-35{
+    font-size: 35px;
+}
+.fs-20{
+    font-size: 20px;
+
+}
+.b-10{
+    border-top: 12px solid #cfa671;
+    border-left: 12px solid #cfa671;
+}
+.fs-30{
+    font-size: 30px;
+}
+.p-35{
+    padding: 35px;
+}
+.br-100{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: white;
+}
+footer{
+    background-image: url(https://indianhouseofdosas.com/images/footer-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-attachment: scroll;
+    background-color: transparent;
+    background-clip: initial;
+    background-origin: initial;
+}
+.b-bottom{
+    border-bottom: 1px dashed #cfa671;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.col-md-3{
+    width: 25%;
+}
+.card{
+    width: 100%;
+}
+.map{
+    display: block;
+    text-align: center;
+    padding: 5px 0px;
+}
+.container-2{
+    width: 80%;
+    margin: 0 auto;
+
+}
+.black{
+    color: black;
+}
+.text-none{
+    text-decoration: none;
+}
+.cream{
+    color: #cfa671;
+}
+.fs-22{
+    font-size: 22px;
+}
+.col-md-6{
+    width: 50%;
+}
+.btn-1:hover{
+    background-color: #cfa671;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 6px;
+    color: white;
+    border: 3px solid #cfa671;
+}
+im-1:hover{
+    cursor: pointer;
+    overflow: hidden;
+
+}
+.col-md-4{
+    width: 33.33%;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.fs-28{
+    font-size: 28px;
+    
+}
+header{
+    position: sticky;
+    top: 0;
+}
+.p-10{
+    padding: 10px 0;
+}
+.btn{
+    background-color: #d0a772;
+    color: white;
+    font-size: 18px;
+    border-radius: 4px;
+    border: none;
+    padding: 5px;
+}
+.co-md-12{
+    width: 100%;
+}
+ul>li>a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.w-100{
+    width: 20%;
+}
+.w-20{
+    width: 100%;
+}
+.bg-black{
+    background-color: black;
+}
+h3{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+
